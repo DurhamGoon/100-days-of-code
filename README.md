@@ -1,5 +1,7 @@
 # 100-days-of-code
 
+![yessir](https://media.tenor.com/Q-6bm0V5s4EAAAAC/matsuoka-shuzo-shuzo.gif)
+
 This is about holding myself accountable. I'm going to code for a hour a day while supplementing my learning with Coursera (thanks job). 
 <br>
 <br>
