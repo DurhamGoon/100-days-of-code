@@ -3,4 +3,6 @@
 This is about holding myself accountable. I'm going to code for a hour a day while supplementing my learning with Coursera (thanks job). 
 <br>
 <br>
-The link to the first round will be available below. Stay tuned!
+Check out the first round of 100 days below:
+<br>
+[Round 1](https://github.com/DurhamGoon/100-days-of-code/tree/main/round-1)
